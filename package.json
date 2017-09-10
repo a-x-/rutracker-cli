@@ -34,6 +34,6 @@
     "lodash.sortby": "^4.7.0",
     "make-dir": "^1.0.0",
     "minimist": "^1.2.0",
-    "rutracker-api": "^0.2.0"
+    "rutracker-api": "git+ssh://git@github.com/a-x-/Rutracker-API.git"
   }
 }
